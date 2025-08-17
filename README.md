@@ -46,6 +46,18 @@ All critical bugs have been fixed and bonus features implemented!
 - **File**: `app/page.tsx` (line 48)
 
 ## Features Implemented
+### Screenshots
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ceb8b045-5f37-4a71-b100-36e0a2886b94" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/512e0cc7-9465-4373-8589-88e86090a186" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e381370d-cbc7-41de-b83e-d27d52400ee5" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/40dd34e1-791e-4b1f-a096-331e0f365dde" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dbd5a3b2-9b3d-430f-90ae-ea6a76bdeb18" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6eea0ad1-42eb-4da2-9737-22f5627633c3" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fcecb883-bcfa-4376-b066-dfbc6fd8afc5" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e928d95a-1519-4685-95a7-3f7da6824e6b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/da276a75-636f-4064-9da5-7996cd28a796" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bcf5c580-991d-42c1-aad3-e7e310c20af8" />
 
 ### Required Features
 
