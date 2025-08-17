@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { Phone, BarChart3, Sun, Moon } from 'lucide-react'
 import { useState, useEffect } from 'react'
+import { ThemeToggle } from './ThemeToggle'
 
 export function Header() {
   const [theme, setTheme] = useState<'light' | 'dark'>('light')
